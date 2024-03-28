@@ -7598,41 +7598,28 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *cameraAccessRequired __attribute__((swift_name("cameraAccessRequired")));
 @property (class, readonly) TruliooCoreLocalizedKeys *cancelButton __attribute__((swift_name("cancelButton")));
 @property (class, readonly) TruliooCoreLocalizedKeys *continueButton __attribute__((swift_name("continueButton")));
-@property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionCountry __attribute__((swift_name("countrySelectionCountry")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionDlTitle __attribute__((swift_name("countrySelectionDlTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionEmptyListDl __attribute__((swift_name("countrySelectionEmptyListDl")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionEmptyListGovId __attribute__((swift_name("countrySelectionEmptyListGovId")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionEmptyListPassport __attribute__((swift_name("countrySelectionEmptyListPassport")));
-@property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionEmptyListPassportVisa __attribute__((swift_name("countrySelectionEmptyListPassportVisa")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionEmptyListVisa __attribute__((swift_name("countrySelectionEmptyListVisa")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionGovIdTitle __attribute__((swift_name("countrySelectionGovIdTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionInvalidCountry __attribute__((swift_name("countrySelectionInvalidCountry")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionPassportTitle __attribute__((swift_name("countrySelectionPassportTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionPassportVisaTitle __attribute__((swift_name("countrySelectionPassportVisaTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionPlaceholderStateText __attribute__((swift_name("countrySelectionPlaceholderStateText")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionPlaceholderText __attribute__((swift_name("countrySelectionPlaceholderText")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionState __attribute__((swift_name("countrySelectionState")));
 @property (class, readonly) TruliooCoreLocalizedKeys *countrySelectionVisaTitle __attribute__((swift_name("countrySelectionVisaTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopAimPhoneToScan __attribute__((swift_name("desktopAimPhoneToScan")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopAllDoneHere __attribute__((swift_name("desktopAllDoneHere")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopBackOfDocument __attribute__((swift_name("desktopBackOfDocument")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopDoNotCloseWindow __attribute__((swift_name("desktopDoNotCloseWindow")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopFollowInstructionOnPhone __attribute__((swift_name("desktopFollowInstructionOnPhone")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopFrontOfDocument __attribute__((swift_name("desktopFrontOfDocument")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopGatheringInformation __attribute__((swift_name("desktopGatheringInformation")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopLaunchCamera __attribute__((swift_name("desktopLaunchCamera")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopNewCodeRequested __attribute__((swift_name("desktopNewCodeRequested")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopOpenCamera __attribute__((swift_name("desktopOpenCamera")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopReceivedYourIdentity __attribute__((swift_name("desktopReceivedYourIdentity")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopAutomaticContinue __attribute__((swift_name("desktopAutomaticContinue")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopReturnHere __attribute__((swift_name("desktopReturnHere")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopScanNewQrCode __attribute__((swift_name("desktopScanNewQrCode")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopScanQrCode __attribute__((swift_name("desktopScanQrCode")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopSelfie __attribute__((swift_name("desktopSelfie")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopStartNewQrCode __attribute__((swift_name("desktopStartNewQrCode")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopSubmittingDelayMessage __attribute__((swift_name("desktopSubmittingDelayMessage")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopSubmittingDelayTitle __attribute__((swift_name("desktopSubmittingDelayTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *desktopThankYou __attribute__((swift_name("desktopThankYou")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopRefreshMemo __attribute__((swift_name("desktopRefreshMemo")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopPhoneScan __attribute__((swift_name("desktopPhoneScan")));
 @property (class, readonly) TruliooCoreLocalizedKeys *desktopHowToScan __attribute__((swift_name("desktopHowToScan")));
@@ -7651,14 +7638,11 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *doneScreenSelfieOnlyInstruction __attribute__((swift_name("doneScreenSelfieOnlyInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *driverLicense __attribute__((swift_name("driverLicense")));
 @property (class, readonly) TruliooCoreLocalizedKeys *driverLicensePreparationInstruction __attribute__((swift_name("driverLicensePreparationInstruction")));
-@property (class, readonly) TruliooCoreLocalizedKeys *driversLicenses __attribute__((swift_name("driversLicenses")));
 @property (class, readonly) TruliooCoreLocalizedKeys *enableCameraButton __attribute__((swift_name("enableCameraButton")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorConnectionSubText __attribute__((swift_name("errorConnectionSubText")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorConnectionTitle __attribute__((swift_name("errorConnectionTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorGenericMessage __attribute__((swift_name("errorGenericMessage")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorGenericTitle __attribute__((swift_name("errorGenericTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *errorInvalidQrSubText __attribute__((swift_name("errorInvalidQrSubText")));
-@property (class, readonly) TruliooCoreLocalizedKeys *errorInvalidQrTitle __attribute__((swift_name("errorInvalidQrTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorNetworkScreenMessage __attribute__((swift_name("errorNetworkScreenMessage")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorNetworkScreenTitle __attribute__((swift_name("errorNetworkScreenTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *errorSubmittingDelayMessage __attribute__((swift_name("errorSubmittingDelayMessage")));
@@ -7667,11 +7651,8 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *flipAnimationInstruction __attribute__((swift_name("flipAnimationInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *frontIdCaptureInstruction __attribute__((swift_name("frontIdCaptureInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *frontIdTitle __attribute__((swift_name("frontIdTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *govIdPreparationInstruction __attribute__((swift_name("govIdPreparationInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *governmentId __attribute__((swift_name("governmentId")));
-@property (class, readonly) TruliooCoreLocalizedKeys *governmentIds __attribute__((swift_name("governmentIds")));
 @property (class, readonly) TruliooCoreLocalizedKeys *idCapturingInstruction __attribute__((swift_name("idCapturingInstruction")));
-@property (class, readonly) TruliooCoreLocalizedKeys *jurisdictionSelectionDlTitle __attribute__((swift_name("jurisdictionSelectionDlTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *jurisdictionSelectionGovIdTitle __attribute__((swift_name("jurisdictionSelectionGovIdTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *jurisdictionSelectionProvincePlaceholderText __attribute__((swift_name("jurisdictionSelectionProvincePlaceholderText")));
 @property (class, readonly) TruliooCoreLocalizedKeys *jurisdictionSelectionStatePlaceholderText __attribute__((swift_name("jurisdictionSelectionStatePlaceholderText")));
@@ -7686,14 +7667,6 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *passportPreparationInstruction __attribute__((swift_name("passportPreparationInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *passportPreparationOpenInstruction __attribute__((swift_name("passportPreparationOpenInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *passportTitle __attribute__((swift_name("passportTitle")));
-@property (class, readonly) TruliooCoreLocalizedKeys *passportVisa __attribute__((swift_name("passportVisa")));
-@property (class, readonly) TruliooCoreLocalizedKeys *passportVisaPreparationInstruction __attribute__((swift_name("passportVisaPreparationInstruction")));
-@property (class, readonly) TruliooCoreLocalizedKeys *passports __attribute__((swift_name("passports")));
-@property (class, readonly) TruliooCoreLocalizedKeys *passportsVisas __attribute__((swift_name("passportsVisas")));
-@property (class, readonly) TruliooCoreLocalizedKeys *permissionDialogAllow __attribute__((swift_name("permissionDialogAllow")));
-@property (class, readonly) TruliooCoreLocalizedKeys *permissionDialogDescription __attribute__((swift_name("permissionDialogDescription")));
-@property (class, readonly) TruliooCoreLocalizedKeys *permissionDialogDoNotAllow __attribute__((swift_name("permissionDialogDoNotAllow")));
-@property (class, readonly) TruliooCoreLocalizedKeys *permissionDialogTitle __attribute__((swift_name("permissionDialogTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *permissionEnableSettingsInstruction __attribute__((swift_name("permissionEnableSettingsInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *permissionEnableSettingsTitle __attribute__((swift_name("permissionEnableSettingsTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *permissionGoToSettingsButton __attribute__((swift_name("permissionGoToSettingsButton")));
@@ -7711,7 +7684,6 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *retryButton __attribute__((swift_name("retryButton")));
 @property (class, readonly) TruliooCoreLocalizedKeys *scanQrTryAgain __attribute__((swift_name("scanQrTryAgain")));
 @property (class, readonly) TruliooCoreLocalizedKeys *search __attribute__((swift_name("search")));
-@property (class, readonly) TruliooCoreLocalizedKeys *selectionTitle __attribute__((swift_name("selectionTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *selfieCaptureInProgress __attribute__((swift_name("selfieCaptureInProgress")));
 @property (class, readonly) TruliooCoreLocalizedKeys *selfieCaptureTitle __attribute__((swift_name("selfieCaptureTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *selfieCapturedDescription __attribute__((swift_name("selfieCapturedDescription")));
@@ -7734,7 +7706,6 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *visaCapturingInstruction __attribute__((swift_name("visaCapturingInstruction")));
 @property (class, readonly) TruliooCoreLocalizedKeys *visaDetectionError __attribute__((swift_name("visaDetectionError")));
 @property (class, readonly) TruliooCoreLocalizedKeys *visaPreparationInstruction __attribute__((swift_name("visaPreparationInstruction")));
-@property (class, readonly) TruliooCoreLocalizedKeys *visas __attribute__((swift_name("visas")));
 @property (class, readonly) TruliooCoreLocalizedKeys *documentSelectionTitle __attribute__((swift_name("documentSelectionTitle")));
 @property (class, readonly) TruliooCoreLocalizedKeys *otherGovernmentId __attribute__((swift_name("otherGovernmentId")));
 @property (class, readonly) TruliooCoreLocalizedKeys *governmentIdTypeSelection __attribute__((swift_name("governmentIdTypeSelection")));
@@ -7809,6 +7780,34 @@ __attribute__((swift_name("LocalizedKeys")))
 @property (class, readonly) TruliooCoreLocalizedKeys *checkTaxIdGuidelines __attribute__((swift_name("checkTaxIdGuidelines")));
 @property (class, readonly) TruliooCoreLocalizedKeys *placeTravelDocument __attribute__((swift_name("placeTravelDocument")));
 @property (class, readonly) TruliooCoreLocalizedKeys *checkTravelDocumentGuidelines __attribute__((swift_name("checkTravelDocumentGuidelines")));
+@property (class, readonly) TruliooCoreLocalizedKeys *documentIsBlurry __attribute__((swift_name("documentIsBlurry")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdDriverLicenseSteady __attribute__((swift_name("holdDriverLicenseSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeDriversLicenseOnStableSurface __attribute__((swift_name("placeDriversLicenseOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdPassportSteady __attribute__((swift_name("holdPassportSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placePassportOnStableSurface __attribute__((swift_name("placePassportOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdVisaSteady __attribute__((swift_name("holdVisaSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeVisaOnStableSurface __attribute__((swift_name("placeVisaOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdVotingCardSteady __attribute__((swift_name("holdVotingCardSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeVotingCardOnStableSurface __attribute__((swift_name("placeVotingCardOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdHealthCardSteady __attribute__((swift_name("holdHealthCardSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeHealthCardOnStableSurface __attribute__((swift_name("placeHealthCardOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdIdCardSteady __attribute__((swift_name("holdIdCardSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeIdCardOnStableSurface __attribute__((swift_name("placeIdCardOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdMilitaryIdSteady __attribute__((swift_name("holdMilitaryIdSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeMilitaryIdOnStableSurface __attribute__((swift_name("placeMilitaryIdOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdResidencePermitSteady __attribute__((swift_name("holdResidencePermitSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeResidencePermitOnStableSurface __attribute__((swift_name("placeResidencePermitOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdTaxIdSteady __attribute__((swift_name("holdTaxIdSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeTaxIdOnStableSurface __attribute__((swift_name("placeTaxIdOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *holdTravelDocumentSteady __attribute__((swift_name("holdTravelDocumentSteady")));
+@property (class, readonly) TruliooCoreLocalizedKeys *placeTravelDocumentOnStableSurface __attribute__((swift_name("placeTravelDocumentOnStableSurface")));
+@property (class, readonly) TruliooCoreLocalizedKeys *checkingYourDocument __attribute__((swift_name("checkingYourDocument")));
+@property (class, readonly) TruliooCoreLocalizedKeys *retakePhotoTryAgain __attribute__((swift_name("retakePhotoTryAgain")));
+@property (class, readonly) TruliooCoreLocalizedKeys *continueAnyway __attribute__((swift_name("continueAnyway")));
+@property (class, readonly) TruliooCoreLocalizedKeys *submitAnyway __attribute__((swift_name("submitAnyway")));
+@property (class, readonly) TruliooCoreLocalizedKeys *failOverToManualTitle __attribute__((swift_name("failOverToManualTitle")));
+@property (class, readonly) TruliooCoreLocalizedKeys *failOverToManualSubtitle __attribute__((swift_name("failOverToManualSubtitle")));
+@property (class, readonly) TruliooCoreLocalizedKeys *takePhotoMyself __attribute__((swift_name("takePhotoMyself")));
 + (TruliooCoreKotlinArray<TruliooCoreLocalizedKeys *> *)values __attribute__((swift_name("values()")));
 @property (class, readonly) NSArray<TruliooCoreLocalizedKeys *> *entries __attribute__((swift_name("entries")));
 @end
@@ -7933,13 +7932,15 @@ __attribute__((swift_name("DocumentCaptureMetadata")))
 - (id<TruliooCoreIMetadata>)autoCaptureAverageRate:(NSArray<TruliooCoreInt *> *)rate __attribute__((swift_name("autoCaptureAverage(rate:)")));
 - (id<TruliooCoreIMetadata>)autoCaptureDefaulted __attribute__((swift_name("autoCaptureDefaulted()")));
 - (id<TruliooCoreIMetadata>)autoCaptureOccurred __attribute__((swift_name("autoCaptureOccurred()")));
+- (id<TruliooCoreIMetadata>)blurFeedbackCaptureState:(NSString *)captureState __attribute__((swift_name("blurFeedback(captureState:)")));
+- (id<TruliooCoreIMetadata>)blurFeedbackDisplayCountCount:(id)count __attribute__((swift_name("blurFeedbackDisplayCount(count:)")));
 - (id<TruliooCoreIMetadata>)cameraFeedLoadTimeWebMsMs:(id)ms __attribute__((swift_name("cameraFeedLoadTimeWebMs(ms:)")));
 - (id<TruliooCoreIMetadata>)deviceCameraResolutionWidth:(id)width height:(id)height __attribute__((swift_name("deviceCameraResolution(width:height:)")));
 - (id<TruliooCoreIMetadata>)imageSizeMb:(id)mb __attribute__((swift_name("imageSize(mb:)")));
-- (id<TruliooCoreIMetadata>)manualCaptureAfterFailOverOccurred __attribute__((swift_name("manualCaptureAfterFailOverOccurred()")));
 - (id<TruliooCoreIMetadata>)manualCaptureDefaulted __attribute__((swift_name("manualCaptureDefaulted()")));
 - (id<TruliooCoreIMetadata>)manualCaptureOccurred __attribute__((swift_name("manualCaptureOccurred()")));
 - (id<TruliooCoreIMetadata>)retryCaptureAttemptCountCount:(NSString *)count __attribute__((swift_name("retryCaptureAttemptCount(count:)")));
+- (id<TruliooCoreIMetadata>)tipsForCaptureDisplayed __attribute__((swift_name("tipsForCaptureDisplayed()")));
 - (id<TruliooCoreIMetadata>)verificationOccurredOnFrontCapture __attribute__((swift_name("verificationOccurredOnFrontCapture()")));
 - (id<TruliooCoreIMetadata>)verificationOccurredOnSelfieCapture __attribute__((swift_name("verificationOccurredOnSelfieCapture()")));
 @end
@@ -7996,7 +7997,7 @@ __attribute__((swift_name("MLMetadata")))
 + (instancetype)allocWithZone:(struct _NSZone *)zone __attribute__((unavailable));
 + (instancetype)mLMetadata __attribute__((swift_name("init()")));
 @property (class, readonly, getter=shared) TruliooCoreMLMetadata *shared __attribute__((swift_name("shared")));
-- (id<TruliooCoreIMetadata>)documentAutoToManualFailoverOccurred __attribute__((swift_name("documentAutoToManualFailoverOccurred()")));
+- (id<TruliooCoreIMetadata>)documentAutoToManualFailOverOccurred __attribute__((swift_name("documentAutoToManualFailOverOccurred()")));
 - (id<TruliooCoreIMetadata>)faceModelInitializeTimeMs:(id)ms __attribute__((swift_name("faceModelInitializeTime(ms:)")));
 - (id<TruliooCoreIMetadata>)firstDocumentRecognitionTimeTime:(id)time __attribute__((swift_name("firstDocumentRecognitionTime(time:)")));
 - (id<TruliooCoreIMetadata>)listOfModelDetectionItemsDetectionItemList:(NSMutableArray<NSString *> *)detectionItemList __attribute__((swift_name("listOfModelDetectionItems(detectionItemList:)")));
@@ -8004,6 +8005,7 @@ __attribute__((swift_name("MLMetadata")))
 - (id<TruliooCoreIMetadata>)mlModelVersionVersion:(NSString *)version __attribute__((swift_name("mlModelVersion(version:)")));
 - (id<TruliooCoreIMetadata>)modelInitializeTimeMs:(id)ms __attribute__((swift_name("modelInitializeTime(ms:)")));
 - (id<TruliooCoreIMetadata>)successfulDocumentAutoCaptureTimeTime:(id)time __attribute__((swift_name("successfulDocumentAutoCaptureTime(time:)")));
+- (id<TruliooCoreIMetadata>)unableToDocumentAutoCaptureOccurred __attribute__((swift_name("unableToDocumentAutoCaptureOccurred()")));
 @end
 
 __attribute__((objc_subclassing_restricted))
@@ -8053,12 +8055,16 @@ __attribute__((swift_name("SelfieMetadata")))
 + (instancetype)selfieMetadata __attribute__((swift_name("init()")));
 @property (class, readonly, getter=shared) TruliooCoreSelfieMetadata *shared __attribute__((swift_name("shared")));
 - (id<TruliooCoreIMetadata>)autoCaptureOccurred __attribute__((swift_name("autoCaptureOccurred()")));
+- (id<TruliooCoreIMetadata>)blurFeedbackCaptureState:(NSString *)captureState __attribute__((swift_name("blurFeedback(captureState:)")));
+- (id<TruliooCoreIMetadata>)blurFeedbackDisplayCountCount:(id)count __attribute__((swift_name("blurFeedbackDisplayCount(count:)")));
 - (id<TruliooCoreIMetadata>)captureTimeTime:(id)time __attribute__((swift_name("captureTime(time:)")));
 - (id<TruliooCoreIMetadata>)faceMeshInitializeFailedReason:(NSString *)reason __attribute__((swift_name("faceMeshInitializeFailed(reason:)")));
 - (id<TruliooCoreIMetadata>)firstRecognitionTimeTime:(id)time __attribute__((swift_name("firstRecognitionTime(time:)")));
-- (id<TruliooCoreIMetadata>)manualCaptureAfterFailOverOccurred __attribute__((swift_name("manualCaptureAfterFailOverOccurred()")));
 - (id<TruliooCoreIMetadata>)manualCaptureOccurred __attribute__((swift_name("manualCaptureOccurred()")));
 - (id<TruliooCoreIMetadata>)retrySelfieCountsCount:(NSString *)count __attribute__((swift_name("retrySelfieCounts(count:)")));
+- (id<TruliooCoreIMetadata>)selfieAutoToManualFailOverOccurred __attribute__((swift_name("selfieAutoToManualFailOverOccurred()")));
+- (id<TruliooCoreIMetadata>)selfieUnableToAutoCaptureOccurred __attribute__((swift_name("selfieUnableToAutoCaptureOccurred()")));
+- (id<TruliooCoreIMetadata>)tipsForCaptureDisplayed __attribute__((swift_name("tipsForCaptureDisplayed()")));
 - (id<TruliooCoreIMetadata>)verificationOccurredOnSelfieCapture __attribute__((swift_name("verificationOccurredOnSelfieCapture()")));
 @end
 
